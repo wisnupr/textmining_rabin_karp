@@ -1,0 +1,21 @@
+body {
+  min-height: 1000px;
+  padding-top: 70px;
+}
+.auto1{
+     display:block;
+     width:100%;
+     min-height: 200px;
+     /*overflow:auto;*/
+}
+.auto{
+     display:block;
+     width:100%;
+     height:205px;
+     overflow:auto;
+}
+.txt{
+  resize:none;
+  width:100%;
+  height:100%;
+}
